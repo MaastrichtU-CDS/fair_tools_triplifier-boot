@@ -1,3 +1,3 @@
 [submodule "triplifier"]
 	path = triplifier
-	url = git@gitlab.com:UM-CDS/fair/tools/triplifier.git
+	url = git@github.com:MaastrichtU-CDS/fair_tools_triplifier.git
